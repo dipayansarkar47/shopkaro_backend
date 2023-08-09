@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/ShaanCoding/ReadME-Generator">
-    <img src="https://cdn-icons-png.flaticon.com/512/134/134932.png" alt="Logo" width="80" height="80">
+    <img src="https://shopkaroo.vercel.app/ShopKaro.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Shopkaro</h3>
